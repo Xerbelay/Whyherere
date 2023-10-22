@@ -8,4 +8,8 @@
 
 - :hibiscus: Хочу закончить курс и найти работу.
 
-- :hocho: Как связаться со мной [![VK](
+- :hocho: Как связаться со мной:
+
+  [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Defcon27/)](https://github.com/Whyherere) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:aribakruz08@gmail.com)
+
